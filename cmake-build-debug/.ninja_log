@@ -1,0 +1,21 @@
+# ninja log v5
+1	2415	7215824745661551	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+2442	7883	7215824800613554	book_author_file_storage.exe	bc10f8837d3ee995
+7	10351	7215827225609604	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+10398	19224	7215827314737181	book_author_file_storage.exe	bc10f8837d3ee995
+340	13125	7215831134385458	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+13127	17096	7215831175138646	book_author_file_storage.exe	bc10f8837d3ee995
+165	14355	7215833591906283	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+14357	17760	7215833624227279	book_author_file_storage.exe	bc10f8837d3ee995
+12	3028	7215833748255515	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+3029	4359	7215833761637958	book_author_file_storage.exe	bc10f8837d3ee995
+5	4023	7215834461502226	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+4024	5520	7215834476502618	book_author_file_storage.exe	bc10f8837d3ee995
+7	2216	7215835438321933	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+2217	2946	7215835445502078	book_author_file_storage.exe	bc10f8837d3ee995
+355	9495	7215840641788324	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+9496	12642	7215840674269694	book_author_file_storage.exe	bc10f8837d3ee995
+6	2133	7215841692116115	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+2134	3224	7215841702936375	book_author_file_storage.exe	bc10f8837d3ee995
+5	3047	7215848870124832	CMakeFiles/book_author_file_storage.dir/main.cpp.obj	caa3beb99ea06c4d
+3079	4712	7215848886921829	book_author_file_storage.exe	bc10f8837d3ee995

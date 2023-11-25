@@ -1,0 +1,3 @@
+C:/Users/A plus/CLionProjects/book_author_file_storage/cmake-build-debug/CMakeFiles/book_author_file_storage.dir
+C:/Users/A plus/CLionProjects/book_author_file_storage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/A plus/CLionProjects/book_author_file_storage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
